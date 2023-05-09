@@ -1,4 +1,4 @@
-module github.com/w0n9/caddy-waf-plugin
+module github.com/w0n9/caddy_waf_plugin
 
 go 1.20
 

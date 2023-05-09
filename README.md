@@ -22,6 +22,6 @@ This is a WAF plugin for [Caddy Server](https://github.com/caddyserver/caddy) us
 ```
 
 # TODO
-[x] Detection and Interception  
-[]  Pass the `remote_addr` to the Engine  
-[]  Multi backend engine instances support, include Load Balance and High Availability
+- [x] Detection and Interception  
+- [ ]  Pass the `remote_addr` to the Engine  
+- [ ]  Multi backend engine instances support, include Load Balance and High Availability
